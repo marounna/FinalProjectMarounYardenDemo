@@ -45,6 +45,8 @@ app.*.map.json
 # Automation scripts
 scripts/
 
+setup.ps1
+
 # MacOS / Windows extras
 Thumbs.db
 
@@ -67,3 +69,4 @@ lib/generated_plugin_registrant.dart
 # Temporary files
 tmp/
 temp/
+
